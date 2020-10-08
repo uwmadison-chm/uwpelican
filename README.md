@@ -3,7 +3,7 @@
 Original template HTML files are in `original/` and can be ignored.
 
 To use this with [Pelican](https://blog.getpelican.com/), add `-t ~/path/to/uwpelican/` or set
-`THEME = '/path/to/uwpelican` in `pelicanconf.py`.
+`THEME = '/path/to/uwpelican'` in `pelicanconf.py`.
 
 ## Supported metadata
 
